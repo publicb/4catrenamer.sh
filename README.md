@@ -36,10 +36,7 @@ The original files are not touched. Instead, renamed copies are copied to ./targ
 
 ## Authors
 
-@publicb
 https://github.com/publicb
-
-Contributors names and contact info
 
 ## License
 
